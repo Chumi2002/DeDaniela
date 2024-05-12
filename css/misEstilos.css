@@ -1,3 +1,9 @@
-.colorEnlace:hover {
-    color: red; /* Cambia el color del enlace en hover */
-  }
+.centered-list {
+  list-style: none; /* Quita los puntos de la lista */
+}
+
+.container2 {
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center; /* Centra verticalmente */
+}
