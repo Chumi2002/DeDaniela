@@ -7,3 +7,10 @@
   justify-content: center; /* Centra horizontalmente */
   align-items: center; /* Centra verticalmente */
 }
+
+/* Estilo para la imagen */
+.imagen-con-sombra {
+  /* Añade una sombra de color negro (rgba(0,0,0,0.5)) con desplazamiento horizontal y vertical de 2px */
+  /* y un desenfoque de 5px */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
