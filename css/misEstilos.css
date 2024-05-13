@@ -14,3 +14,8 @@
   /* y un desenfoque de 5px */
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
+
+.imagen-con-borde {
+        border: 2px solid black; /* Borde sólido de 2px de ancho, color negro */
+        border-radius: 10px; /* Bordes redondeados */
+    }
